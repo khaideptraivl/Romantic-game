@@ -126,7 +126,7 @@ while running:
     if nganX <=0:
         nganX = 0 
     elif nganX >=736:
-        nganX = 736
+        ganX = 736
 
     if nganY <= 400: 
         nganY = 400
